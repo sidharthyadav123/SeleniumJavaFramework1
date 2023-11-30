@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-30T18:24:30 IST" name="Default suite" finished-at="2023-11-30T18:25:00 IST" duration-ms="30907">
+    <groups>
+    </groups>
+    <test started-at="2023-11-30T18:24:30 IST" name="Default test" finished-at="2023-11-30T18:25:00 IST" duration-ms="30907">
+      <class name="testngdemo_1.Class_4">
+        <test-method signature="accountSummary()[pri:1, instance:testngdemo_1.Class_4@49ec71f8]" started-at="2023-11-30T18:24:30 IST" name="accountSummary" finished-at="2023-11-30T18:24:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountSummary -->
+        <test-method signature="fundTransfer()[pri:2, instance:testngdemo_1.Class_4@49ec71f8]" started-at="2023-11-30T18:24:30 IST" name="fundTransfer" finished-at="2023-11-30T18:24:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fundTransfer -->
+        <test-method signature="billPayment()[pri:3, instance:testngdemo_1.Class_4@49ec71f8]" started-at="2023-11-30T18:24:30 IST" name="billPayment" finished-at="2023-11-30T18:24:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- billPayment -->
+      </class> <!-- testngdemo_1.Class_4 -->
+      <class name="testngdemo_1.Class_3">
+        <test-method is-config="true" signature="login()[pri:0, instance:testngdemo_1.Class_3@478190fc]" started-at="2023-11-30T18:24:30 IST" name="login" finished-at="2023-11-30T18:24:30 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="search()[pri:0, instance:testngdemo_1.Class_3@478190fc]" started-at="2023-11-30T18:24:30 IST" name="search" finished-at="2023-11-30T18:24:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="advancedSearch()[pri:0, instance:testngdemo_1.Class_3@478190fc]" started-at="2023-11-30T18:24:30 IST" name="advancedSearch" finished-at="2023-11-30T18:24:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- advancedSearch -->
+        <test-method signature="buyProduct()[pri:0, instance:testngdemo_1.Class_3@478190fc]" started-at="2023-11-30T18:24:30 IST" name="buyProduct" finished-at="2023-11-30T18:24:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyProduct -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testngdemo_1.Class_3@478190fc]" started-at="2023-11-30T18:25:00 IST" name="logout" finished-at="2023-11-30T18:25:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testngdemo_1.Class_3 -->
+      <class name="testngdemo_1.LaunchChromeBrowser">
+        <test-method signature="LaunchChromeBrowser()[pri:0, instance:testngdemo_1.LaunchChromeBrowser@1d2adfbe]" started-at="2023-11-30T18:24:30 IST" name="LaunchChromeBrowser" finished-at="2023-11-30T18:25:00 IST" duration-ms="30853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchChromeBrowser -->
+      </class> <!-- testngdemo_1.LaunchChromeBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
